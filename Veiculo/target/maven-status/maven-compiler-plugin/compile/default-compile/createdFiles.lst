@@ -1,0 +1,5 @@
+interfaces\Manutencao.class
+modelos\Veiculo.class
+modelos\Carro.class
+modelos\Moto.class
+com\mycompany\veiculo\GerenciadorVeiculos.class
